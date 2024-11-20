@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: qrks7umn6-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/qrks7umn6-dotnet-basic
